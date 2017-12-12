@@ -4,7 +4,9 @@ Sharcoin integration/staging tree
 OFFICIAL PAGE IS UNDER PREPARATION.
 
 Copyright (c) 2009-2013 Bitcoin Developers
+
 Copyright (c) 2011-2013 Litecoin Developers
+
 Copyright (c) 2013-2018 Sharcoin Developers
 
 What is Sharcoin?
