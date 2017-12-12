@@ -1,112 +1,62 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Designer: Jonas Schnelli
-  	 License: MIT
--->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="svg2"
-   sodipodi:docname="bitcoin.svg"
-   inkscape:version="0.48.4 r9939"
-   x="0px"
-   y="0px"
-   width="1024px"
-   height="1024px"
-   viewBox="-34 -34 580 580"
-   enable-background="new 0 0 1024 1024"
-   xml:space="preserve"><metadata
-     id="metadata41"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-     id="defs39"><radialGradient
-       gradientUnits="userSpaceOnUse"
-       r="34.3969"
-       cy="196.4412"
-       cx="277.4905"
-       id="innerBtop"><stop
-         id="stop17"
-         style="stop-color:#F9AA4B"
-         offset="0" /><stop
-         id="stop19"
-         style="stop-color:#F7931A"
-         offset="1" /></radialGradient><radialGradient
-       gradientUnits="userSpaceOnUse"
-       r="39.8381"
-       cy="284.5671"
-       cx="261.9153"
-       id="innerBbottom"><stop
-         id="stop24"
-         style="stop-color:#F9AA4B"
-         offset="0" /><stop
-         id="stop26"
-         style="stop-color:#F7931A"
-         offset="1" /></radialGradient><radialGradient
-       gradientUnits="userSpaceOnUse"
-       r="255.9878"
-       cy="256.0027"
-       cx="256.0276"
-       id="coinShape"><stop
-         id="stop31"
-         style="stop-color:#F9AA4B"
-         offset="0" /><stop
-         id="stop33"
-         style="stop-color:#F7931A"
-         offset="1" /></radialGradient><radialGradient
-       inkscape:collect="always"
-       xlink:href="#coinShape"
-       id="radialGradient3035"
-       gradientUnits="userSpaceOnUse"
-       cx="256.0276"
-       cy="256.0027"
-       r="255.9878"
-       gradientTransform="matrix(1.7655172,0,0,1.7655172,60.027586,60.027586)" /></defs><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview37"
-     showgrid="false"
-     inkscape:zoom="0.23046875"
-     inkscape:cx="375.24943"
-     inkscape:cy="430.03551"
-     inkscape:window-x="75"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" /><!-- nice shadow with alpha 0.35 --><filter
-     id="dropShadowAlpha"><feColorMatrix
-       result="matrixOut"
-       in="SourceAlpha"
-       type="saturate"
-       values="0.1"
-       id="feColorMatrix4" /><feGaussianBlur
-       in="matrixOut"
-       result="blur-out"
-       stdDeviation="6"
-       id="feGaussianBlur6" /><feColorMatrix
-       in="blur-out"
-       result="color-out"
-       type="matrix"
-       values="0 0 0 0   0                 0 0 0 0   0                  0 0 0 0   0                  0 0 0 0.35 0"
-       id="feColorMatrix8" /><feBlend
-       in="SourceGraphic"
-       in2="color-out"
-       mode="normal"
-       id="feBlend10" /></filter><path
-     style="fill:#800080;filter:url(#dropShadowAlpha)"
-     d="M 508.25 60.03125 C 307.03169 61.544868 124.47296 198.39765 73.5625 402.71875 C 13.167686 644.83472 160.53427 890.07093 402.59375 950.4375 C 644.75209 1010.8164 889.97542 863.47208 950.34375 621.34375 C 1010.7103 379.19953 863.36297 133.89782 621.21875 73.53125 C 583.39254 64.098974 545.51265 59.75095 508.25 60.03125 z "
-     transform="matrix(0.56640625,0,0,0.56640625,-34,-34)"
-     id="path35" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" sodipodi:docname="bitcoin.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024"
+	 style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#dropShadowAlpha);}
+	.st1{fill:#FFB40E;}
+	.st2{fill:#DAA62A;}
+	.st3{fill:#504F4D;}
+	.st4{fill:#AF7821;}
+	.st5{fill:#898989;}
+	.st6{fill:#CBCBCB;}
+</style>
+<filter  id="dropShadowAlpha">
+	<feColorMatrix  id="feColorMatrix4" in="SourceAlpha" result="matrixOut" type="saturate" values="0.1"></feColorMatrix>
+	<feGaussianBlur  id="feGaussianBlur6" in="matrixOut" result="blur-out" stdDeviation="6"></feGaussianBlur>
+	
+		<feColorMatrix  id="feColorMatrix8" in="blur-out" result="color-out" type="matrix" values="0 0 0 0   0                 0 0 0 0   0                  0 0 0 0   0                  0 0 0 0.35 0">
+		</feColorMatrix>
+	<feBlend  id="feBlend10" in="SourceGraphic" in2="color-out" mode="normal"></feBlend>
+</filter>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview37" inkscape:current-layer="svg2" inkscape:cx="375.24943" inkscape:cy="430.03551" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-maximized="0" inkscape:window-width="640" inkscape:window-x="75" inkscape:window-y="34" inkscape:zoom="0.23046875" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="path35" class="st0">
+	<path class="st1" d="M499.3,35C298,36.5,115.5,173.4,64.6,377.7c-60.4,242.1,87,487.4,329,547.7c242.2,60.4,487.4-87,547.8-329.1
+		c60.4-242.1-87-487.4-329.1-547.8C574.4,39.1,536.5,34.8,499.3,35z"/>
+</g>
+<g>
+	<path class="st2" d="M665.1,673.5c16.1,22.6,27.3,47.1,32.2,74.6c7.5,42.7-24.4,51.7-53.2,57c-34,6.3-57.3-8.2-60.8-47.2
+		c-6.9-77.8-23.3-152.8-79.8-223.1c-51.6,67.7-72.2,147.7-102.7,222.3c-7.1,17.4,25,53.7-23.5,50c-34.8-2.6-73.6-5.4-64.7-58.5
+		c17-5.3,24.1-14.6,12.7-31.4c4.5-9.8,9-19.7,13.5-29.5c64.1-15.8,81.7-75.5,110.1-122.2c55.9-91.9,52-92.2,113.6-0.5
+		C590.2,606.3,601.2,665.8,665.1,673.5z"/>
+	<path class="st3" d="M466.8,431.3c-26.5-27.5-52.7-56.3-95.4-27.5c-17.6-38.1-54.2-65-63.3-108c15.2-36.6,58.5-40.3,81.1-69.9
+		c14.6-19.2,29.5-5.7,41.1,10.6c12.9,18.2,32.9,32.7,41.6,52.4c23.5,53.4,39,27.5,56.6-2.7c10-17.2,18.9-35.7,31.9-50.4
+		c17.6-20,37.2-27.1,48.4,7.4c-4.3,28.8-8.6,57.6-12.9,86.4c-7.8,12.5-19.2,23.8-14.2,40.8l-4.9-1.2
+		C524.5,362.5,504.2,412,466.8,431.3z M415.4,292.5c-3.6,2-9.3,3.3-10.3,6.2c-1.1,3.4,1.9,8.1,3.2,12.3c3.7-2.1,9.3-3.5,10.6-6.6
+		C420.1,301.4,416.8,296.6,415.4,292.5z"/>
+	<path class="st4" d="M466.8,431.3c37.4-19.3,57.7-68.9,109.9-62.2c1.9,4.7,3.9,9.4,5.8,14.1c-35.8,59.6-16.1,112.9,16,166.7
+		c24,40.1,56.8,75.8,66.6,123.6c-63.9-7.8-74.9-67.2-102.6-108.5c-61.6-91.7-57.7-91.4-113.6,0.5c-28.4,46.7-46,106.5-110.1,122.2
+		C381.4,602.3,424.1,516.8,466.8,431.3z"/>
+	<path class="st5" d="M787.5,328.2c73.5,33.6,79.7,53.1,35.8,116.9c-33.2,48.4-68.3,95-132.8,120.4c-6.9-24.9-13.7-49.6-20.5-74.2
+		C733.2,454.2,769.8,398,787.5,328.2z"/>
+	<path class="st6" d="M308,295.8c9.1,43.1,45.7,70,63.3,108c-11.7,29.2-23.3,58.4-35,87.5c-67.4-33.6-103.2-90-117.3-162.1
+		C248.7,318.1,278.4,307,308,295.8z"/>
+	<path class="st5" d="M219,329.3c14.1,72.1,49.9,128.6,117.3,162.1c-6.1,24.7-12.3,49.4-20.5,82.5c-32.4-25.1-58.3-45.3-84.2-65.4
+		c31.6-63.1-3.5-83.5-58.3-91.3C135.1,360,162.5,337.1,219,329.3z"/>
+	<path class="st6" d="M787.5,328.2c-17.7,69.8-54.3,126-117.5,163.1c-10.8-29.7-21.6-59.3-32.5-89c42-20.3,50.6-74.1,93.8-93.1
+		C750,315.5,768.8,321.8,787.5,328.2z"/>
+	<path class="st5" d="M731.3,309.1c-43.2,19-51.8,72.9-93.8,93.1c-17.5-9-32.1-26.2-55.1-19.1c-1.9-4.7-3.8-9.4-5.8-14.1
+		c0,0,4.9,1.2,4.9,1.2c29.4,0.8,29-27.2,41.5-42.8c0,0,0.5,0.6,0.5,0.6c-9.3,0.5-18.5,0.9-27.8,1.4c4.3-28.8,8.6-57.6,12.9-86.4
+		C668.3,230.2,681.4,303.8,731.3,309.1z"/>
+	<path class="st6" d="M173.2,417.2c54.8,7.8,90,28.2,58.3,91.3C201.2,485,178.9,456.4,173.2,417.2z"/>
+	<path class="st4" d="M325.3,717.3c11.4,16.8,4.3,26.1-12.7,31.4C309.7,735.3,316.3,725.8,325.3,717.3z"/>
+	<path class="st6" d="M595.8,329.5c9.3-0.5,18.5-0.9,27.8-1.4l-0.5-0.6c-12.5,15.6-12.2,43.6-41.5,42.8
+		C576.5,353.3,588,342.1,595.8,329.5z"/>
+	<path class="st5" d="M415.4,292.6c1.3,4,4.7,8.8,3.5,11.8c-1.2,3.1-6.9,4.5-10.6,6.6c-1.3-4.2-4.3-8.9-3.2-12.3
+		C406.1,295.9,411.8,294.5,415.4,292.6z"/>
+	<path class="st6" d="M623.5,328.1c0,0-0.5-0.6-0.5-0.6C623.1,327.5,623.5,328.1,623.5,328.1z"/>
+</g>
+</svg>
